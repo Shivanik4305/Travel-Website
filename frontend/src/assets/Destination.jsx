@@ -15,7 +15,7 @@ const Destination=()=>{
     return(
         <>
 
-<h1 style={{marginTop:"130px",textAlign:"center"}}>DESTINATIONS</h1>
+<h1 style={{marginTop:"130px",textAlign:"center"}}>DESTINATION</h1>
 <div style={{marginTop:"50px",marginBottom:"2rem"}}>
         <div style={{ display:'flex',justifyContent:"space-evenly",flexDirecion:"row",marginLeft:'0px'}}>
           
